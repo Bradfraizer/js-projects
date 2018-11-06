@@ -1,0 +1,14 @@
+				     JS1 Continued
+					Night 1
+Teacher: Ben Reckas
+TA: David
+
+DOM - Document Object Model
+
+Linking Javascript
+<script type="text/javascript" src="js/scripts.js"></script>
+
+
+
+
+
