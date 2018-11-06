@@ -1,2 +1,8 @@
-alert('Hello World');
-let hometown = prompt('Where are you from?');
+let name = 'Brad';
+console.log(name);
+console.log('Hey there, Fresno!')
+
+//Self Practice
+// alert('Hello World');
+// let hometown =('Where are you from?');
+// console.log(hometown);

@@ -8,6 +8,8 @@ DOM - Document Object Model
 Linking Javascript
 <script type="text/javascript" src="js/scripts.js"></script>
 
+Clearing console - ctrl + k or the "cancel sign" in top left of console
+
 
 
 
